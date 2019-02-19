@@ -1,0 +1,19 @@
+
+        .content{width: 100%; height: 100%;  }
+        .determine{
+        	width: 400px;
+        	height: 40px;
+        }
+        form{display:block;}
+        input,select{height: 40px; width: 400px;}
+        
+        label{width:100%; padding-top: 10px; }
+        li{
+        	list-style-type: none;
+        	padding-top: 25px;
+        }
+       .m{ width: 800px; 
+         
+        }
+      
+    
